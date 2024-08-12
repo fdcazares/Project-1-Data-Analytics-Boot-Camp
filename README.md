@@ -27,9 +27,9 @@ Follow these steps to open and use the Jupyter Notebook to analyze gym accessibi
 ### 1. **Launch Jupyter Notebook**
 To start the Jupyter Notebook, open your terminal, navigate to the project directory, and run the following command:
 
-\```bash
+```bash
 jupyter notebook
-\```
+```
 
 ### 2. **Open the Notebook**
 
