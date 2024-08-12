@@ -21,9 +21,6 @@ Instructions on how to install the project. For example:
    ```bash
    cd Project-1-Data-Analytics-Boot-Camp
 
-4. Install the dependencies:
-  ```bash
-   npm install
 ## Usage
 
 Follow these steps to open and use the Jupyter Notebook to analyze gym accessibility and training preferences.
