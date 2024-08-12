@@ -1,13 +1,12 @@
 # Impact of Gym Accessibility on Training Preferences
 
-This project aims to explore the relationship between gym accessibility and individuals' training preferences. By analyzing data on average gym cost, gym locations, number of public transportation locations, and individuals' average income levels, the project seeks to understand whether or not these accessibilities affect how people train. 
+This project aims to explore the relationship between gym accessibility and individuals' training preferences. By analyzing data on average gym cost, gym locations, number of public transportation locations, and individuals' average income levels, the project seeks to understand whether these factors influence how people train. 
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Configuration](#configuration)
 
 ## Installation
 
@@ -59,5 +58,5 @@ To save changes made to the notebook
 ## Features
 
 - **Comprehensive Gym Analysis**
-  - Analyze gym accessibility based on gym cost, gym locations, public transportation, and income levels.
+  - Analyze gym accessibility based on gym cost, gym locations, public transportation avaliability, and income levels.
   - Evaluate the impact of gym accessibility on training preferences.
