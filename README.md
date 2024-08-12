@@ -25,6 +25,7 @@ Instructions on how to install the project. For example:
   ```bash
    npm install
 
+
 ## Usage
 
 Follow these steps to open and use the Jupyter Notebook to analyze gym accessibility and training preferences.
